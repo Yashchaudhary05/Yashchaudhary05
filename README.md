@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yashchaudhary05
 - 👀 I’m interested in coding, anime and gaming
-- 🌱 I’m currently learning java and aws
+- 🌱 I’m currently preparing for aws solutions architect exam
 - 💞️ I’m looking to collaborate on internship
 - 📫 Reach me at < yashch1077@gmail.com > 
 
