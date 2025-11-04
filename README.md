@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yashchaudhary05
 - 👀 I’m interested in coding, anime and gaming
-- 🌱 I’m currently preparing for aws solutions architect exam
+- 🌱 I’m currently working as a Consulting Engineer Trainee at CISCO
 - 💞️ I’m looking for a cloud profile job
 - 📫 Reach me at < yashch1077@gmail.com > 
 
